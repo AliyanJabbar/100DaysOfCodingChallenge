@@ -1,2 +1,2 @@
 let favorite_Number: number = "11"  // This saves our favorite number
-console.log(`Hello friends! do you know my favorite number is "${favorite_Number}"`)  // This shows the message with your favorite number
+console.log(`Hello friends! do you know my favorite number is "${favorite_Number}"`)  // This shows the message with our favorite number
