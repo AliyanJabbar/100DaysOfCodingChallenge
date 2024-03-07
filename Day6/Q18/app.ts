@@ -11,13 +11,13 @@ places.reverse()  // we can also write it in the console.log()
 console.log("Reversed Order:", places)
 
 places.reverse()
-console.log("Original Order:", places) // it gives original because it reverse the places which are already reverse 
+console.log("Original Order:", places) // it gives original because it reverse the previous one which is already reverse 
 
 places.sort()
 console.log("Alphabetical Order:", places)
 
 places.reverse()
-console.log("Reverse Alphabetical Order:", places)
+console.log("Reverse Alphabetical Order:", places)   // same for here as it reverses the previous one
 
 
 

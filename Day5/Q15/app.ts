@@ -4,7 +4,7 @@ guests.forEach(guest=> {
 })
 
 let unabletocome= "Arham"
-console.log(`${unabletocome} forget to attend the dinner party at my house`)
+console.log(`${unabletocome} cannot attend the dinner party at my house`)
 
 // Replace the guest
 let newGuest="Shaheer"
