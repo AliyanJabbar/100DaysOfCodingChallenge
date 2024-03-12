@@ -1,3 +1,5 @@
+// Question 28: Stages of Life: Determine a person’s life stage with an if-else chain.
+
 let age: number = 30
 
 if (age < 1) {

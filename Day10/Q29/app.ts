@@ -1,3 +1,5 @@
+// Question 29: Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included.
+
 let favorite_fruit: string[] = ["Mango", "Apple", "Strawberry"]
 if (favorite_fruit.includes('Banana')) {
     console.log("You really like to eat Bananas.")

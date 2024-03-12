@@ -1,3 +1,5 @@
+// Question 16: More Guests: You've found a bigger dinner table, so there's room for more guests.
+
 let guests: string[]= ["Arham", "Ahsan", "Rubas",]
 console.log("I have a good news, now I have a big table")
 

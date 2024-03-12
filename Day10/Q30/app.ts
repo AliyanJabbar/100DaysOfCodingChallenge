@@ -1,3 +1,6 @@
+// Question 30: Hello Admin: Greet users differently, especially 'admin'.
+
+
 let usernames: string[] = ["admin", "user1", "user2", "user3"]
 
 // usernames.forEach ( username => {
