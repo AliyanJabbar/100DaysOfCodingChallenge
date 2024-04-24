@@ -1,0 +1,10 @@
+// Question 107: Write a condition using logical operators that checks if a number is divisible by both 2 and 3.
+
+// Explain & TIP: Checking for divisibility involves using the modulo operator (%) to see if there's any remainder. A number divisible by both 2 and 3 without a remainder is also divisible by 6./
+
+function checkingDivisibility(num: number): boolean {
+  return num % 2 === 0 && num % 3 === 0;
+}
+console.log(checkingDivisibility(12)); //Output = true
+console.log(checkingDivisibility(9)); //Output = false
+console.log(checkingDivisibility(16)); //Output = false
